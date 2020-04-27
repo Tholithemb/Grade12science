@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="EXTRA">MIND THE GAP:STUDY GUIDES(DOWNLOAD):</string>
+    <string name="mathst">MATHEMATICS (29,7MB)</string>
+    <string name="LIFEST">LIFE SCIENCES (9,47MB)</string>
+    <string name="PHYSICSST">PHYSICS (14,86MB)</string>
+    <string name="CHEMISTRY">CHEMISTRY(24,45MB)</string>
+    <string name="Practical">Practical Youtube Videos</string>
+    <string name="shor">Short biology videos</string>
+</resources>

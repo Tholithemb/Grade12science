@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="TXTL1">TERM 1 </string>
+    <string name="LESSONL1">DNA - THE CODE OF LIFE</string>
+    <string name="LESSONL2">The Nucleus and DNA</string>
+    <string name="LESSONL3">Protein Synthesis and DNA Fingerprinting</string>
+    <string name="LESSONL4">Cell Division - Mitosis and Meiosis</string>
+    <string name="LESSONL5">MEIOSIS</string>
+    <string name="LESSONL6">Reproduction - Life Cycles, Asexual  Sexual</string>
+    <string name="LESSONL7">REPRODUCTION IN VERTEBRATES</string>
+    <string name="LESSONL8">HUMAN REPRODUCTION I</string>
+    <string name="LESSONL9">HUMAN REPRODUCTION II</string>
+
+    <string name="TXTL2">TERM 2</string>
+    <string name="LESSONL10">GENETICS AND INHERITANCE </string>
+    <string name="LESSONL11">Inheritance AND Variation</string>
+    <string name="LESSONL12">Genetic Engineering</string>
+    <string name="LESSONL13">Human Nervous System </string>
+    <string name="LESSONL14">Human Eye</string>
+     <string name="LESSONL15">Human Ear</string>
+
+    <string name="TXTL3">TERM 3</string>
+    <string name="LESSONL16">Endocrine System AND Homeostasis</string>
+    <string name="LESSONL17">Thermoregulation</string>
+    <string name="LESSONL18">RESPONDING TO THE ENVIRONMENT-PLANTS </string>
+    <string name="LESSONL19">EVOLUTION BY NATURAL SELECTION </string>
+    <string name="LESSONL20">HUMAN EVOLUTION </string>
+    <string name="TXTL4">TERM 4</string>
+    <string name="LESSONL21">HUMAN EVOLUTION </string>
+    <string name="LESSONL22">HUMAN IMPACT ON THE ENVIRONMENT  </string>
+    <string name="MORE">FOR MORE BIOLOGY VIDEOS VISIT </string>
+    <string name="AM">ARMANDO HUSUDUNGAN(YOUTUBE)</string>
+    <string name="amm">ARMANDO HUSUDUNGAN</string>
+
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="LESSONP1">MOMENTUM AND IMPULSE </string>
+    <string name="LESSONP2">VERTICAL PROJECTILE MOTION IN 1D</string>
+    <string name="LESSONP3">ORGANIC MOLECULES </string>
+    <string name="LESSONP4">ORGANIC REACTION </string>
+    <string name="LESSONP5">PLASTIC AND POLYMERS</string>
+    <string name="TXTP1">TERM 2</string>
+    <string name="LESSONP6">WORK, ENERGY AND POWER</string>
+    <string name="LESSONP7">DOPPLER EFFECT</string>
+    <string name="LESSONP8">RATE AND EXTENT OF REACTION </string>
+    <string name="LESSONP9">CHEMICAL EQUILIBRIUM </string>
+    <string name="LESSONP10">ACIDS AND BASES</string>
+    <string name="TXTP2">TERM3</string>
+    <string name="LESSONP11">INTERNAL RESISTANCE IN ELECTRIC CIRCUITS</string>
+    <string name="LESSONP12">ELECTRODYNAMICS </string>
+    <string name="LESSONP13">OPTICAL PHENOMENA AND PROPERTIES OF MATERIALS</string>
+    <string name="LESSONP14">ELECTROCHEMICAL REACTIONS </string>
+    <string name="LESSONP15">CHEMICAL INDUSTRIES</string>
+<string name="p0">How the learner chemistry kit works</string>
+<string name="p1"> Acid base neutralisation reaction experiment</string>
+    <string name="p2"> Organic Molecules</string>
+    <string name="p3">Intermolecular Forces</string>
+    <string name="p4">Factors That Affect Reaction Rate</string>
+    <string name="p5">Effect of Changing Concentration on Equilibrium Position</string>
+    <string name="p6">Copper-Zinc voltaic cell</string>
+
+</resources>

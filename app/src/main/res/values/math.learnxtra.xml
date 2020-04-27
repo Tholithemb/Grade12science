@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="LESSON1">NUMBER PATTERNS, SEQUENCE AND SERIES</string>
+    <string name="LESSON2">FUNCTIONS</string>
+    <string name="LESSON3">EXPONENTIAL AND LOGARITHMS</string>
+    <string name="LESSON4">FINANCE , GROWTH AND DECAY</string>
+    <string name="LESSON5">TRIGONOMETRY</string>
+    <string name="LESSON6">3D TRIGONOMETRY</string>
+    <string name="TXT1">TERM 2</string>
+
+    <string name="LESSON7">2D AND 3D DIMENSIONS PROBLEMS I</string>
+    <string name="LESSON8">2D AND 3D DIMENSIONS PROBLEMS II</string>
+    <string name="LESSON9">EUCLIDEAN GEOMETRY-SIMILARITY</string>
+    <string name="LESSON10">DIFFERENTIAL CALCULUS</string>
+    <string name="LESSON11">ANALYTICAL GEOMETRY</string>
+    <string name="TXT2">TERM3</string>
+    <string name="LESSON12">EUCLIDEAN GEOMETRY- CIRCLES</string>
+
+    <string name="LESSON13">STATISTICS</string>
+    <string name="LESSON14">COUNTING PROBABILITY</string>
+
+
+</resources>

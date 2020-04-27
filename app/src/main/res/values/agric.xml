@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<string name="guide">AGRICULTURE STUDY GUIDE </string>
+<string name="ai">Artificial Insemination</string>
+    <string name="de">Farm Demonstrations</string>
+    <string name="l1">148 day pregnant cow reproductive tract dissection</string>
+    <string name="l2">Collecting semen from the bull</string>
+    <string name="l3">Gestation, Labor, and Calving: Cow Reproduction</string>
+    <string name="l4">Safe Handling of Farm Animals - Breeding</string>
+    <string name="l5"></string>
+
+</resources>

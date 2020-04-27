@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".biology">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <TextView
+            android:id="@+id/textView8"
+            android:textSize="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/amm" />
+
+        <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+            android:layout_width="match_parent"
+            android:layout_marginTop="15dp"
+            android:layout_height="350dp"
+            app:videoId="2_owp8kNMus"
+            app:autoPlay="false"
+            app:showYouTubeButton="false"
+            app:showFullScreenButton="true"
+            app:showVideoDuration="true" />
+        <TextView
+            android:id="@+id/textView08"
+            android:textSize="20dp"
+            android:layout_marginTop="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/MORE" />
+        <Button
+            android:layout_marginTop="20dp"
+            android:id="@+id/button"
+            android:background="@drawable/background"
+            android:layout_width="match_parent"
+            android:layout_height="27dp"
+            android:text="@string/AM" />
+    </LinearLayout>
+</RelativeLayout>

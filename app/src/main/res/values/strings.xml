@@ -1,0 +1,1253 @@
+<resources>
+    <string name="not">In order to view question papers and memo you will need data,you can download or make them offline  for later use.</string>
+    <string name="n1">The is only one paper in June</string>
+    <string name="n2">Adverts won\'t pop up while previewing question papers or practising. </string>
+    <string name="sim">Try the simulations</string>
+    <string name="phet">Phet Simulations </string>
+    <string name="app_name">Grade12science</string>
+    <string name="CHOOSE">CHOOSE SUBJECT:</string>
+    <string name="lfsc">LIFE SCIENCES</string>
+    <string name="MATH">MATHEMATICS</string>
+    <string name="PHYSICS">PHYSICAL SCIENCES</string>
+    <string name="AGRIC">AGRICULTURAL SCIENCES </string>
+    <string name="EXTRAS">EXTRAS:</string>
+    <string name="LEARN">LEARN XTRA</string>
+    <string name="LFSC_ESSAYS">LIFE SCIENCES ESSAYS(OFFLINE)</string>
+    //subjects content
+    <string name="paper1">PAST PAPERS PAPER1</string>
+    <string name="paper2">PAST PAPERS PAPER2</string>
+    <string name="EXCERCISE">NOTES AND EXCERCISES</string>
+    <string name="SIMULATIONS">ONLINE EXPERIMENTS</string>
+    <string name="prac">PRACTICALS</string>
+    //notes
+    <string name="NOTE">*NOTE*</string>
+    <string name="SIMULATION2">
+    *ONLINE EXPERIMENT THE LINK WILL  DIRECT YOU  TO CHAPTER SIMULATIONS WHICH WILL HELP YOU EXPERIMENT  MORE ABOUT THE CHAPTER.<br> \n</br>
+       * IF YOU USING PHONE DEVICE,THE ONLY COMPATIBLE SIMULATIONS ARE THOSE OF HTML5
+    </string>
+    <string name="PRAC2">* PRACTICALS THE LINK WILL DIRECT YOU TO YOUTUBE WHERE I HAVE CREATED A LIBRARY FOR APPROXIMATELY ALL<br> \n</br>
+    PRACTICALS FOR THE WHOLE YEAR.
+    </string>
+
+
+    <string name="exam">November exams and memo:</string>
+    <string name="memo">Memo</string>
+    <string name="september">September/trials  exams and memo: </string>
+    <string name="june">June exams and memo:</string>
+    // nove exam
+    <string name="nov18">November 2018</string>
+    <string name="nov17">November 2017</string>
+    <string name="nov16">November 2016</string>
+    <string name="nov15">November 2015</string>
+    <string name="nov14">November 2014</string>
+    <string name="nov13">November 2013</string>
+    //september
+    <string name="sep19">September 2019</string>
+    <string name="sep18">September 2018</string>
+    <string name="sep17">September 2017</string>
+    <string name="sep16">September 2016</string>
+    <string name="sep15">September 2015</string>
+    <string name="sep14">September 2014</string>
+    <string name="sep13">September 2013</string>
+    //june
+    <string name="jun19">June 2019</string>
+    <string name="jun18">June 2018</string>
+    <string name="jun17">June 2017</string>
+    <string name="jun16">June 2016</string>
+    <string name="jun15">June 2015</string>
+    <string name="jun14">June 2014</string>
+    //supp
+    <string name="supp">Feb/March exams and memos</string>
+    <string name="supp18">FEB/MARCH 2018</string>
+    <string name="supp17">FEB/MARCH 2017</string>
+    <string name="supp16">FEB/MARCH 2016</string>
+    <string name="supp15">FEB/MARCH 2015</string>
+    <string name="supp14">FEB/MARCH 2014</string>
+    <string-array name="essay_title">
+        <item>MENSTRUAL CYCLE</item>
+        <item>PROTEIN SYNTHESIS AND DNA REPLICATION</item>
+        <item>PROTEIN SYNTHESIS AND MUTATION </item>
+        <item>FORELIMBS MODIFICATION AND FUNCTION</item>
+        <item>MUTATION ON PROTEIN SYNTHESIS AND EVOLUTION</item>
+        <item>ACCOMODATION, HEARING AND BALANCE</item>
+        <item>MEIOSIS, MUTATION AND NATURAL SELECTION</item>
+        <item>ADRENALIN AND HEARING </item>
+        <item>OUT OF AFRICA</item>
+        <item>NATURAL SELECTION AND SPECIATION</item>
+        <item>SPERMATOGENESIS</item>
+        <item>CHROMOSOME AND MEIOSIS</item>
+        <item>DNA REPLICATION AND PROTEIN SYNTHESIS</item>
+        <item>GENETIC VARIATION</item>
+        <item>PETRIFIED FOSSILS</item>
+        <item>HYPOTHALAMUS</item>
+        <item>STEM CELL</item>
+        <item>HEARING AND REFLEX</item>
+        <item>LAMARCKISM AND DARWINISM</item>
+        <item>REPRODUCTIVE STRATEGIES</item>
+        <item>HOMEOSTASIS</item>
+        <item>BLOOD GROUPS</item>
+        <item>PREGNANCY</item>
+        <item>HORMONES</item>
+        <item>EVOLUTION</item>
+        <item>PUNCTUATED EQUILIBRIUM VS GRADUALISM</item>
+        <item>GENETIC VARIATION AND MUTATION </item>
+        <item>FOETUS</item>
+        <item>SKULL </item>
+    </string-array>
+    <string-array name="essay_content">
+        <item>
+
+            MENSTRUAL CYCLE ESSAY
+              <br> \n</br>
+            <br> \n</br>
+
+Describe the menstrual cycle and how it is influenced by different hormones??
+
+            <br> \n</br>
+            <br> \n</br>
+*The menstrual cycle is a series of events that occur in the female body to
+prepare it for possible pregnancy
+            <br> \n</br>
+            <br> \n</br>
+
+*Which involves ovarian cycle
+and the uterine cycle
+            <br> \n</br>
+            <br> \n</br>
+*It takes an average of 28 days
+            <br> \n</br>
+            <br> \n</br>
+*The pituitary gland hypophysis
+secretes FSH
+which stimulates the development of a primary follicle in the ovary
+            <br> \n</br>
+            <br> \n</br>
+*The developing follicle /Graafan follicle
+secretes oestrogen
+which stimulates the thickening of the lining of the uterus/endometrium
+            <br> \n</br>
+            <br> \n</br>
+*Around day 13 pituitary gland hypophysis
+secretes LH
+which cause ovulation to occur
+            <br> \n</br>
+            <br> \n</br>
+*The remains of the Graafian follicle develops into the corpus luteum
+which secretes the progesterone
+which continues to stimulate the thickening of the uterus
+            <br> \n</br>
+            <br> \n</br>
+*High levels of progesterone
+inhibits the production of FSH
+so that the ovaries are no longer stimulated to produce another follicle
+            <br> \n</br>
+            <br> \n</br>
+*If fertilisation does not occur, the corpus luteum degenerates
+and stops producing progesterone
+            <br> \n</br>
+            <br> \n</br>
+*The pituitary gland/hypophysis is no longer inhibited in its production of
+FSH and a new follicle develops
+            <br> \n</br>
+            <br> \n</br>
+*The thick endometrium is no longer maintained / it degenerates
+and is shed together with blood menstruation takes place
+            <br> \n</br>
+            <br> \n</br>
+            <br> \n</br>
+            <br> \n</br>
+
+Any
+            (17)
+</item>
+        <item>PROTEIN SYNTHESIS AND DNA REPLICATION ESSAY
+             <br> \n</br>
+            <br> \n</br>
+             <br> \n</br>
+            <br> \n</br>
+*Protein synthesis Transcription
+             <br> \n</br>
+            <br> \n</br>
+• DNA double helix unwinds
+            <br> \n</br>
+• weak hydrogen bonds of DNA break<br> \n</br><br> \n</br>
+• forming two single strands of DNA<br> \n</br>
+• One strand acts as template<br> \n</br>
+• to form a complementary strand which is mRNA (A – U; G – C )<br> \n</br>
+• using free RNA nucleotides from the nucleoplasm<br> \n</br>
+• Three adjacent bases on mRNA make up a codon<br> \n</br>
+• which codes for an amino acid.<br> \n</br>
+• mRNA moves out of the nucleus<br> \n</br>
+• through the nuclear pore<br> \n</br>
+• into the <br> \n</br>
+• where it attaches to a ribosome<br> \n</br>
+             <br> \n</br>
+            <br> \n</br>
+            (Max. 7) (7)
+             <br> \n</br>
+            <br> \n</br>
+
+*Translation
+
+             <br> \n</br>
+            <br> \n</br>
+• according to the codons of mRNA<br> \n</br>
+• t-RNA molecules with complementary anticodons<br> \n</br>
+• bring the required amino acids to the ribosome<br> \n</br>
+• The amino acids link together by peptide bond<br> \n</br>
+• to form the required proteins.<br> \n</br>
+             <br> \n</br>
+            <br> \n</br>
+(Max. 4) (4)
+
+             <br> \n</br>
+            <br> \n</br>
+*DNA replication
+             <br> \n</br>
+            <br> \n</br>
+• DNA double helix unwinds<br> \n</br>
+• weak hydrogen bonds between nitrogenous bases break<br> \n</br>
+• and the two DNA strands unzip/separate
+• Each original DNA strand serves as template to form a new strand<br> \n</br>
+• by attaching to free nucleotides from nucleoplasm<br> \n</br>
+• to form complementary strands<br> \n</br>
+• Each DNA molecule now consists of one original strand and one new strand.<br> \n</br>
+• The result is two genetically identical DNA molecules.<br> \n</br></item>
+        <item>PROTEIN SYNTHESIS AND MUTATION ESSAY
+            <br> \n</br>
+            <br> \n</br><br> \n</br>
+
+Describe the process of protein synthesis and also describe the impact that the two types of gene mutation may have on theformation of proteins <br> \n</br> <br> \n</br>
+
+
+*Possible Answer to Essay:<br> \n</br>
+
+The process of protein synthesis occurs intwo steps, namely transcription and translation. <br> \n</br><br> \n</br>
+
+*TRANSCRIPTION<br> \n</br><br> \n</br>
+
+-Double stranded DNA unzip<br> \n</br>
+
+-When the hydrogen bonds break<br> \n</br>
+-One strand is used as a template<br> \n</br>
+-To form mRNA<br> \n</br>
+-Using free RNA nucleotides from the<br> \n</br>
+-nucleoplasm<br> \n</br><br> \n</br>
+
+-The coded message for protein synthesis<br> \n</br>
+-is thus copied onto mRNA<br> \n</br>
+-mRNA moves from the nucleus to the<br> \n</br>
+-cytoplasm and attaches to the<br> \n</br>
+-ribosome( Max6)<br> \n</br><br> \n</br><br> \n</br>
+
+*TRANSLATION<br> \n</br><br> \n</br>
+-tRNA collects amino acids<br> \n</br>
+
+-tRNAs, with amino acids attached,<br> \n</br>
+-become arranged on the mRNA<br> \n</br>
+-The anticodons on the tRNAs match<br> \n</br>
+-complementary bases on the codons of mRNA<br> \n</br>
+
+-Amino acids become attached by peptide<br> \n</br>
+-bonds to form the required protein<br> \n</br>
+-Each tRNA is released to pick up more<br> \n</br>
+
+-amino acids (Max 6)<br> \n</br>
+            IMPACT OF GENE MLITATIONS ONPROTEIN SYNTHESIS<br> \n</br><br> \n</br>
+
+*Errors/mistakes/changes may occur during DNA replication<br> \n</br>
+
+*POINT MUTATION: replacing one base of<br> \n</br>
+-a codon within another<br> \n</br>
+- Small change that may possibly result in<br> \n</br>
+-one amino acid changing in a protein<br> \n</br><br> \n</br>
+
+*FRAMESHIFT MUTATION: addition/<br> \n</br>
+-deletion of one or more bases of a codon<br> \n</br>
+-Resulting in changing the order/sequence<br> \n</br>
+
+-of all the bases of the codons<br> \n</br>
+-Resulting in forming a different protein with
+            different function
+(Max 6)
+ </item>
+        <item>FORELIMBS MODIFICATION AND FUNCTIONS ESSAY<br> \n</br><br> \n</br>
+Charles Darwin’s explanation for the differences in the structures of the forelimbs<br> \n</br><br> \n</br>
+Forelimbs of mammals are built on the same pattern but have different functions. Study the
+diagram of FIVE mammals and write a mini-essay where you discuss the modification and
+functions of their forelimbs. Include in your discussion Charles Darwin’s explanation for the
+differences in the structures of the forelimbs of the five mammals although they are built on
+the same pattern.<br> \n</br><br> \n</br>
+
+            *The Bat<br> \n</br><br> \n</br>
+• The forelimbs have become wings for flying.<br> \n</br>
+• The first digit is hook-like to hang from trees<br> \n</br>
+• while the last four digits have become elongated to make up the wing<br> \n</br><br> \n</br>
+*The monkey<br> \n</br><br> \n</br>
+• The forelimbs are very long<br> \n</br>
+• to allow it to grasp trees while it is climbing<br> \n</br>
+• and swinging<br> \n</br>
+*The mole<br> \n</br><br> \n</br>
+• Has a pair of short, spade-like forelimbs<br> \n</br>
+• that are modified for digging<br> \n</br>
+*The seal<br> \n</br><br> \n</br>
+• The forelimbs have become flippers<br> \n</br>
+• for steering and<br> \n</br>
+• maintaining equilibrium during swimming.<br> \n</br><br> \n</br>
+*The horse<br> \n</br>
+• The forelimbs are adapted for support<br> \n</br>
+• and running with the third digit being very elongated ending in a hoof<br> \n</br><br> \n</br>
+*Charles Darwin’s explanation:<br> \n</br>
+• Forelimbs of mammals arose from a common ancestor<br> \n</br>
+• in which the forelimb had the same pattern.<br> \n</br>
+• The forelimbs of the five mammals show variations<br> \n</br>
+• because of having been modified<br> \n</br>
+
+        </item>
+        <item>MUTATION ON PROTEIN SYTHESIS AND EVOLUTION ESSAY<br> \n</br><br> \n</br><br> \n</br>
+Describe how a gene mutation may influence the structure of a protein. Also use ONE example
+to describe the role of mutations in evolution in present times<br> \n</br><br> \n</br><br> \n</br>
+*MUTATIONS AND PROTEIN SYNTHESIS<br> \n</br>
+• A mutation is a change in the nucleotide/nitrogenous base sequence<br> \n</br>
+• of a DNA molecule/a gene<br> \n</br>
+• since mRNA is copied from the DNA molecule<br> \n</br>
+• during transcription<br> \n</br>
+• This will result in a change in the codons<br> \n</br>
+• As a result, different tRNA molecules<br> \n</br>
+• carrying different amino acid will be required<br> \n</br>
+• The sequence of amino acids changes<br> \n</br>
+• resulting in the formation of a different protein<br> \n</br>
+• If the same amino acid is coded for<br> \n</br>
+• there will be no change in the protein structure <br> \n</br><br> \n</br>
+*MUTATIONS AND EVOLUTION IN PRESENT TIMES<br> \n</br><br> \n</br>
+• In a population of insects/bacteria/HI viruses/Galápagos finches <br> \n</br>
+            - mutations are a
+source of variation<br> \n</br>
+• which may make some organisms more resistant/better suited<br> \n</br>
+• to insecticides/antibiotics/antiretroviral medication/ drought<br> \n</br>
+• Those individuals that are not resistant/suited will die<br> \n</br>
+• whereas - those that are resistant/ well suited, will survive<br> \n</br>
+• to pass the resistant allele/resistance on to their offspring<br> \n</br>
+• This is known as natural selection<br> \n</br>
+• As a result, individuals of the future generations will be resistant to the
+insecticides/antibiotics/antiretroviral medication/adapted to drought</item>
+        <item> ACCOMODATION, HEARING AND BALANCE ESSAY<br> \n</br><br> \n</br>
+A goalkeeper in a soccer match prevented a goal from being scored when he dived to his right
+after the ball was kicked towards him. Just before he dived, he heard his team-mate shout,
+(your ball).<br> \n</br><br> \n</br>
+Describe how his eyes adjusted to see the ball as it travelled towards him and describe how he
+heard his team-mate and maintained his balance as he dived to save the ball.
+As the ball moved towards the goalkeeper:<br> \n</br><br> \n</br>
+*Accommodation took place<br> \n</br><br> \n</br>
+• Ciliary muscles contracted<br> \n</br>
+• Suspensory ligaments became slack<br> \n</br>
+• This reduced the tension on lens<br> \n</br>
+• Lens became more convex/round<br> \n</br>
+• Refractive power of the lens increased<br> \n</br>
+• Image of the ball fell on the retina <br> \n</br><br> \n</br>
+*Hearing The shout of his team-mate was heard by the goal keeper as follows:<br> \n</br><br> \n</br>
+• The sound waves were directed by the pinn<br> \n</br>
+• through the auditory canal<br> \n</br>
+• to the tympanic membrane/eardrum<br> \n</br>
+• causing it to vibrate<br> \n</br>
+• The vibrations of the tympanic membrane were transferred to the ossicles<br> \n</br>
+• in the middle ear - which eventually caused the oval window to vibrate<br> \n</br>
+• This set up pressure waves in the cochlea<br> \n</br>
+• This stimulated the Organ of Curti the cochlea<br> \n</br>
+• to convert this stimulus into a nerve impulse<br> \n</br>
+• which was then transmitted along the auditory nerve<br> \n</br>
+• and interpreted in the cerebrum <br> \n</br><br> \n</br>
+*Balance and equilibrium As he dived:<br> \n</br><br> \n</br>
+• A change in the direction and speed of the body<br> \n</br>
+• causes the movement of fluid in the semicircular canals<br> \n</br>
+• which stimulates the cristae<br> \n</br>
+• A change in the position of the head<br> \n</br>
+• stimulated the maculae<br> \n</br>
+• in the utriculus and sacculus<br> \n</br>
+• The stimuli were converted into impulses<br> \n</br>
+• which were transported along the auditory nerve<br> \n</br>
+• and interpreted in the cerebellum<br> \n</br>
+• which then sent impulses to the muscles<br> \n</br>
+• to restore balance and equilibrium</item>
+        <item>MEIOSIS, MUTATION AND NATURAL SELECTION ESSAY<br> \n</br><br> \n</br>
+Describe how meiosis and different types of mutations contribute to genetic variation and the
+role of this variation in natural selection.<br> \n</br><br> \n</br>
+*Meiosis<br> \n</br><br> \n</br>
+• Crossing over occurs during prophase I<br> \n</br>
+• Homologous chromosomes / chromatids overlap<br> \n</br>
+• at points called chiasma/ chiasmata<br> \n</br>
+• Genetic material is exchanged<br> \n</br>
+• resulting in new combinations of genetic material<br> \n</br><br> \n</br>
+*Random arrangement of chromosomes<br> \n</br><br> \n</br>
+• occurs during metaphase<br> \n</br>
+• so that they separate in a random/ independent manner<br> \n</br>
+• resulting in new combinations of genetic material<br> \n</br>
+*Mutations<br> \n</br><br> \n</br>
+• A gene/ (point and frameshift) mutation occurs<br> \n</br>
+• as a result of a change in sequence of nitrogen bases<br> \n</br>
+• in the DNA molecule<br> \n</br>
+• A chromosome mutation occurs as a<br> \n</br>
+• result of a change in the structure of a chromosome/ number of chromosomes during
+meiosis<br> \n</br><br> \n</br>
+• Mutations that occur in sex cells<br> \n</br>
+• are passed on to the new generations<br> \n</br>
+• creating new characteristics<br> \n</br><br> \n</br>
+*Role of variation in natural selection<br> \n</br><br> \n</br>
+• Organisms of a particular species shows a great deal of variation<br> \n</br>
+• Some individuals may have characteristics that are favourable/ any example<br> \n</br>
+• Others may have characteristics/any example that are unfavourable<br> \n</br>
+• If there is competition/changing environmental conditions/ Selective pressure by
+the environment<br> \n</br>
+• organisms with favourable characteristics survive<br> \n</br>
+• and reproduce<br> \n</br>
+• and pass these favourable characteristics to their offspring<br> \n</br>
+• while organisms with unfavourable characteristics will die out<br> \n</br>
+• Over time the whole population will have this favourable characteristic</item>
+        <item>ADRENALIN AND HEARING ESSAY<br> \n</br><br> \n</br>
+While walking in the bush Paul hears a sound which he thinks is the roar of a lion. He
+immediately runs to safety.<br> \n</br><br> \n</br>
+Describe how he hears the sound and describe the role of adrenalin to ensure that his muscles
+are able to function efficiently while he runs away.<br> \n</br><br> \n</br>
+*Hearing<br> \n</br><br> \n</br>
+• Pinna traps/directs the sound waves<br> \n</br>
+• Into the ear canal/meatus<br> \n</br>
+• This causes the tympanic membrane to vibrate<br> \n</br>
+• The vibration is transmitted to the auditory ossicles<br> \n</br>
+• The ossicles amplify the vibration<br> \n</br>
+• and transmit it to the oval window<br> \n</br>
+• The oval window vibrates<br> \n</br>
+• creating waves<br> \n</br>
+• in the fluid/endolymph of the cochlea<br> \n</br>
+• which stimulates the Organ of Corti<br> \n</br>
+• to convert the wave into an impulse<br> \n</br>
+• The impulse travels along the auditory nerve<br> \n</br>
+• to the cerebrum<br> \n</br>
+• where it is interpreted as the roar of the lion<br> \n</br><br> \n</br>
+*Role of Adrenalin<br> \n</br><br> \n</br>
+• More adrenalin is secreted<br> \n</br>
+• Adrenalin increases muscle tone<br> \n</br>
+• And causes the liver/muscles to convert glycogen into glucose<br> \n</br>
+• The heart rate increases<br> \n</br>
+• so that the muscles receive more glucose<br> \n</br>
+• and oxygen<br> \n</br>
+• needed for cellular respiration<br> \n</br>
+• to provide the energy<br> \n</br>
+• for the muscles to contract efficiently<br> \n</br>
+• The rate of breathing increases<br> \n</br>
+• and the depth of breathing increases<br> \n</br>
+• to exhale carbon dioxide from the muscles faster<br> \n</br>
+• and inhale oxygen faster<br> \n</br>
+• Constriction of blood vessels to the gut/skin<br> \n</br>
+• and dilation of blood vessels to the vital organs/brain/muscles<br> \n</br>
+• allowing more blood to be supplied to vital organs/brain/muscles </item>
+        <item>OUT OF AFRICA HYPOTHESIS ESSAY<br> \n</br><br> \n</br>
+Fossils of the bipedal primates Ardipithecus, Australopithecus and early Homo species are
+used to support the (Out Of Africa) hypothesis.<br> \n</br><br> \n</br>
+State the (Out Of Africa)  hypothesis. Describe the evidence that supports the (Out Of Africa)
+hypothesis and the evidence that shows that the three primate genera mentioned above, were
+all bipedal<br> \n</br><br> \n</br>
+*HYPOTHESIS<br> \n</br><br> \n</br>
+• All modern humans*/Homo sapiens<br> \n</br>
+• originated in Africa<br> \n</br>
+• and migrated to other parts of the world<br> \n</br><br> \n</br>
+*FOSSIL EVIDENCE<br> \n</br><br> \n</br>
+• Fossils of Ardipithecus were found ONLY in Africa/Rift Valley/Ethiopia/South Africa<br> \n</br>
+• Fossils of Australopithecus were found ONLY in Africa/Rift Valley/Ethiopia/South Africa –<br> \n</br>
+• The fossils of Homo habilis were ONLY found in Africa<br> \n</br>
+• The OLDEST fossils of Homo erectus were found in Africa<br> \n</br>
+• The OLDEST fossils of Homo sapiens were found in Africa<br> \n</br><br> \n</br>
+*GENETIC EVIDENCE<br> \n</br><br> \n</br>
+• Mitochondrial DNA<br> \n</br>
+• Is inherited only from the maternal line<br> \n</br>
+• Analysis of mutations<br> \n</br>
+• on this mitochondrial DNA<br> \n</br>
+• shows that the oldest female ancestor were located in Africa<br> \n</br>
+• and that all humans descended from her/mitochondrial Eve<br> \n</br>
+• The Y chromosome shows the paternal line<br> \n</br><br> \n</br>
+*CULTURAL EVIDENCE<br> \n</br><br> \n</br>
+• The OLDEST/most primitive artefacts (tools, cutlery, art etc.)<br> \n</br>
+• were found in Africa<br> \n</br><br> \n</br>
+*BIPEDALISM<br> \n</br><br> \n</br>
+• The fossils of all three genera indicate that:<br> \n</br>
+• The foramen magnum<br> \n</br>
+• is located in a more forward position<br> \n</br>
+• The pelvis is wider and shorterN
+• The spine is S-shaped</item>
+        <item>NATURAL SELECTION AND SPECIATION ESSAY<br> \n</br><br> \n</br><br> \n</br>
+The anole lizard of the Caribbean Islands represents a group of about 150 closely relate
+species, which evolved within the past 50 million years from a single species.<br> \n</br><br> \n</br>
+Use this example to describe how natural selection led to the process of speciation that gave
+rise to the 150 different species of lizards.<br> \n</br><br> \n</br>
+*Natural selection and speciation<br> \n</br><br> \n</br>
+• The original species of anole lizards was separated<br> \n</br><br> \n</br>
+• Into different populations<br> \n</br><br> \n</br>
+• by a geographical barrier<br> \n</br><br> \n</br>
+• which is the sea<br> \n</br><br> \n</br>
+• There was no gene flow<br> \n</br><br> \n</br>
+• between the separated populations<br> \n</br><br> \n</br>
+• Each population was exposed to different environmental conditions<br> \n</br><br> \n</br>
+• on each island<br> \n</br><br> \n</br>
+• Because there is variation<br> \n</br><br> \n</br>
+• amongst the lizards<br> \n</br><br> \n</br>
+• Natural selection occurred independently<br> \n</br><br> \n</br>
+• in each population<br> \n</br><br> \n</br>
+• Some had favourable characteristics<br> \n</br><br> \n</br>
+• to survive on a specific island<br> \n</br><br> \n</br>
+• while others did not<br> \n</br><br> \n</br>
+• The ones that did not have the favourable characteristics died<br> \n</br><br> \n</br>
+• The ones with the favourable characteristic survived<br> \n</br><br> \n</br>
+• and reproduced to pass the gene for the favourable characteristics<br> \n</br><br> \n</br>
+• to the next generation<br> \n</br><br> \n</br>
+• And over many generations the favourable characteristic becomes more frequent in the
+population<br> \n</br><br> \n</br>
+• each population became different from the other<br> \n</br><br> \n</br>
+• over time - genotypically<br> \n</br><br> \n</br>
+• and phenotypically<br> \n</br><br> \n</br>
+• Even if the populations were to mix again<br> \n</br><br> \n</br>
+• they would not be able to reproduce/interbreed with each other.</item>
+        <item>SPERMATOGENESIS ESSAY<br> \n</br><br> \n</br><br> \n</br><br> \n</br>
+Sperm is produced, transported and then combined with secretions from the accessory glands
+to form semen. The semen is then transferred into the body of the female where it meets the
+ovum.<br> \n</br><br> \n</br>
+Describe all the processes referred to in the statement above and explain THREE structural
+adaptations of the sperm for fertilisation<br> \n</br><br> \n</br>
+*Spermatogenesis<br> \n</br><br> \n</br>
+• Takes place under the influence of testosterone<br> \n</br><br> \n</br>
+• in the seminiferous tubules/testis<br> \n</br><br> \n</br>
+• Diploid cells/germinal epithelium<br> \n</br><br> \n</br>
+• undergo meiosis<br> \n</br><br> \n</br>
+• to form haploid sperm cells<br> \n</br><br> \n</br>
+*Formation and transport of semen<br> \n</br><br> \n</br>
+• Sperm mature/are temporarily stored<br> \n</br><br> \n</br>
+• in the epididymis<br> \n</br><br> \n</br>
+• During ejaculation<br> \n</br><br> \n</br>
+• sperm move into the vas deferens<br> \n</br><br> \n</br>
+• As it passes the seminal vesicles<br> \n</br><br> \n</br>
+• prostate gland and<br> \n</br><br> \n</br>
+• Cowpers glands<br> \n</br><br> \n</br>
+• fluids are added that provide nutrition,<br> \n</br><br> \n</br>
+• promote the movement of the sperm<br> \n</br><br> \n</br>
+• and neutralise the acids<br> \n</br><br> \n</br>
+• produced in the vagina<br> \n</br><br> \n</br>
+• The semen passes through the urethra<br> \n</br><br> \n</br>
+• of the penis<br> \n</br><br> \n</br>
+• into the vagina<br> \n</br><br> \n</br>
+• during copulation<br> \n</br><br> \n</br>
+• and swims up the Fallopian tube<br> \n</br><br> \n</br>
+• where it meets the ovum<br> \n</br><br> \n</br>
+*Structural suitability of the sperm cell for fertilisation<br> \n</br><br> \n</br>
+• The acrosome<br> \n</br><br> \n</br>
+• contains enzymes to dissolve a path into the ovum<br> \n</br><br> \n</br>
+• Nucleus of the sperm<br> \n</br><br> \n</br>
+• carries genetic material of the male/haploid number of chromosomes<br> \n</br><br> \n</br>
+• Many mitochondria<br> \n</br><br> \n</br>
+• in the middle piece - release energy<br> \n</br><br> \n</br>
+• so that sperms could swim<br> \n</br><br> \n</br>
+• The presence of a tailenables sperm cells to swim<br> \n</br><br> \n</br>
+• towards the ovum<br> \n</br><br> \n</br>
+• The contents of the sperm cell such as the cytoplasm is reduced/condensed<br> \n</br><br> \n</br>
+• - making the sperm light for efficient movement<br> \n</br><br> \n</br>
+• Sperm is streamlined<br> \n</br><br> \n</br>
+• to allow for easier movement</item>
+        <item>CHROMOSOMES AND MEIOSIS ESSAY<br> \n</br><br> \n</br><br> \n</br><br> \n</br>
+Describe the structure and arrangement of chromosomes making up the normal human
+karyotype. Also describe the behaviour of the chromosomes during the different phases of
+meiosis I.<br> \n</br><br> \n</br>
+*STRUCTURE AND ARRANGEMENT OF CHROMOSOMES<br> \n</br><br> \n</br>
+• Each chromosome comprises two chromatids<br> \n</br><br> \n</br>
+• held together by a centromere<br> \n</br><br> \n</br>
+• There are 23 pairs/46 chromosomes in<br> \n</br><br> \n</br>
+• human somatic cells/body cells<br> \n</br><br> \n</br>
+• which are arranged into homologous pairs<br> \n</br><br> \n</br>
+• that are similar in length<br> \n</br><br> \n</br>
+• carry genes for the same characteristics<br> \n</br><br> \n</br>
+• have alleles of a particular gene at the same loci and<br> \n</br><br> \n</br>
+• have the same centromere position<br> \n</br><br> \n</br>
+• Each somatic cell has 22 pairs/44 autosomes<br> \n</br><br> \n</br>
+• and - a pair/2 gonosomes/sex chromosomes/X and Y chromosomes<br> \n</br><br> \n</br>
+• Autosomes are arranged in pairs from largest to smallest<br> \n</br><br> \n</br>
+• in a karyotype - Males have XY chromosomes<br> \n</br><br> \n</br>
+• Females have XX chromosomes<br> \n</br><br> \n</br>
+• The X chromosome is larger than the Y chromosome<br> \n</br><br> \n</br>
+*BEHAVIOUR OF CHROMOSOMES IN MEIOSIS I
+• During prophase I –<br> \n</br><br> \n</br>
+• chromosomes pair up/homologous pairs/bivalents form<br> \n</br><br> \n</br>
+• Crossing over/exchange of genetic material occurs<br> \n</br><br> \n</br>
+• between chromatids/adjacent chromosome pairs<br> \n</br><br> \n</br>
+• During metaphase I of meiosis<br> \n</br><br> \n</br>
+• homologous chromosomes/chromosome pairs are arranged<br> \n</br><br> \n</br>
+• at the equator<br> \n</br><br> \n</br>
+• of the cell - in a random way<br> \n</br><br> \n</br>
+• with the chromosome attached to the spindle fibre<br> \n</br><br> \n</br>
+• During anaphase I<br> \n</br><br> \n</br>
+• chromosome pairs separate/chromosomes move to opposite poles<br> \n</br><br> \n</br>
+• During telophase I<br> \n</br><br> \n</br>
+• the chromosomes reach the poles of the cell</item>
+        <item>DNA REPLICATION AND PROTEIN SYNTHESIS ESSAY<br> \n</br><br> \n</br>
+Each somatic cell in the human body contains identical DNA. This DNA controls the synthesis of
+all proteins required for the structure and functioning of the human body. Describe how DNA
+controls protein synthesis with the assistance of other nucleic acids found in the human cell.
+Also describe how DNA is replicated before the start of cell division to ensure that all body cells
+contain identical genetic information.<br> \n</br><br> \n</br>
+*Protein synthesis<br> \n</br><br> \n</br>
+Transcription<br> \n</br><br> \n</br>
+• DNA double helix unwinds<br> \n</br><br> \n</br>
+• weak hydrogen bonds of DNA break<br> \n</br><br> \n</br>
+• forming two single strands of DNA<br> \n</br><br> \n</br>
+• One strand acts as template<br> \n</br><br> \n</br>
+• to form a complementary strand which is mRNA / (A – U; G – C )<br> \n</br><br> \n</br>
+• using free RNA nucleotides from the nucleoplasm<br> \n</br><br> \n</br>
+• Three adjacent bases on mRNA make up a codon<br> \n</br><br> \n</br>
+• which codes for an amino acid.<br> \n</br><br> \n</br>
+• mRNA moves out of the nucleus<br> \n</br><br> \n</br>
+• through the nuclear pore<br> \n</br><br> \n</br>
+• into the cytoplasm<br> \n</br><br> \n</br>
+• where it attaches to a ribosome<br> \n</br><br> \n</br>
+*Translation<br> \n</br><br> \n</br>
+• according to the codons of mRNA<br> \n</br><br> \n</br>
+• t-RNA molecules with complementary anticodons<br> \n</br><br> \n</br>
+• bring the required amino acids to the ribosome<br> \n</br><br> \n</br>
+• The amino acids link together by peptide bond<br> \n</br><br> \n</br>
+• to form the required proteins.<br> \n</br><br> \n</br>
+*DNA replication
+• DNA double helix unwinds<br> \n</br><br> \n</br>
+• weak hydrogen bonds between nitrogenous bases break<br> \n</br><br> \n</br>
+• and the two DNA strands unzip/separate<br> \n</br><br> \n</br>
+• Each original DNA strand serves as template to form a new strand<br> \n</br><br> \n</br>
+• by attaching to free nucleotides from nucleoplasm<br> \n</br><br> \n</br>
+• to form complementary strands<br> \n</br><br> \n</br>
+• Each DNA molecule now consists of one original strand and one new strand.<br> \n</br><br> \n</br>
+• The result is two genetically identical DNA molecules.</item>
+        <item>GENETIC VARIATION ESSAY<br> \n</br><br> \n</br>
+Describe the mechanisms that cause variation within a species.
+Sources of genetic variation:<br> \n</br><br> \n</br>
+*Meiosis<br> \n</br><br> \n</br>
+• Gametes produced by meiosis are different because of:<br> \n</br><br> \n</br>
+• crossing over during first prophase<br> \n</br><br> \n</br>
+• random arrangement of chromosomes<br> \n</br><br> \n</br>
+• during first metaphase<br> \n</br><br> \n</br>
+• and second metaphase<br> \n</br><br> \n</br>
+*Random mating as a source of variation<br> \n</br><br> \n</br>
+• In humans and some other mammals, mating takes place between individuals who<br> \n</br><br> \n</br>
+select mating partners of a particular kind.<br> \n</br><br> \n</br>
+• In most other species, mating takes place randomly amongst all individuals within the<br> \n</br><br> \n</br>
+population / more than one mating partner<br> \n</br><br> \n</br>
+*Chance fertilisation of egg cells by sperm cells<br> \n</br><br> \n</br>
+• Usually more than one egg cell and sperm cells are produced<br> \n</br><br> \n</br>
+• and these are all different.<br> \n</br><br> \n</br>
+• Fusion of many types of sperm cells and egg cells<br> \n</br><br> \n</br>
+• can produce many different types of offspring.<br> \n</br><br> \n</br>
+*Mutations<br> \n</br><br> \n</br>
+• Mutations are sudden, random changes in the genetic code of an organism<br> \n</br><br> \n</br>
+• A gene mutation occurs<br> \n</br><br> \n</br>
+• as a result of a change in the sequence of nitrogen bases in the DNA molecule<br> \n</br><br> \n</br>
+• can result in the formation of a different protein<br> \n</br><br> \n</br>
+• leading to new/different characteristics<br> \n</br><br> \n</br>
+• A chromosome<br> \n</br><br> \n</br>
+• mutation occurs<br> \n</br><br> \n</br>
+• as a result of a change in the structure / number of chromosomes<br> \n</br><br> \n</br>
+• Mutations occurring in sex cells<br> \n</br><br> \n</br>
+• are passed on to offspring and new generations<br> \n</br><br> \n</br>
+• resulting in new characteristics being formed</item>
+        <item>PETRIFIED FOSSILS ESSSAYS<br> \n</br><br> \n</br>
+Describe how petrified fossils are formed in sedimentary rock and give examples of fossils
+found in places other than rock. Explain how scientists date these fossils and how fossil tourism
+can be an advantage to the country<br> \n</br><br> \n</br><br> \n</br><br> \n</br>
+*Fossil formation<br> \n</br><br> \n</br>
+• Dead organisms settle to the bottom of lakes, sea and swamps (body of water).<br> \n</br><br> \n</br>
+• Mineral salts in the water also settle to the bottom.<br> \n</br><br> \n</br>
+• Soft body parts decay leaving only bones.<br> \n</br><br> \n</br>
+• Mineral salts filter into the bones of organism.<br> \n</br><br> \n</br>
+• Turning it into stone / this is called petrification.<br> \n</br><br> \n</br>
+• Layers of sediment are deposited on top over the years.<br> \n</br><br> \n</br>
+• As the layers pile up, their weight presses down on the older ones which turn into rock.<br> \n</br><br> \n</br>
+• Alternatively, the bones may completely decay leaving a cast of the organism.<br> \n</br><br> \n</br>
+• The void left behind may then fill with minerals making a stone replica of the organism.<br> \n</br><br> \n</br>
+*Other types of fossils<br> \n</br><br> \n</br>
+• Fossils found in ice e.g. mammoth<br> \n</br><br> \n</br>
+• Fossils found in tar e.g. sabre-toothed tiger<br> \n</br><br> \n</br>
+• unaltered fossils<br> \n</br><br> \n</br>
+• Fossils trapped in amber/resin e.g. insects<br> \n</br><br> \n</br>
+• Carbonised fossils e.g. coal<br> \n</br><br> \n</br>
+*Dating fossils<br> \n</br><br> \n</br>
+• Radiometric dating Attempts to find out how long ago a particular fossil was formed /
+gives the real age of the fossil.<br> \n</br><br> \n</br>
+• Scientists observe the breakdown of radioactive substances in the rock / breakdown of
+radioactive carbon-14/uranium/potassium etc.<br> \n</br><br> \n</br>
+• They compare the amount of radioactive substance remaining<br> \n</br><br> \n</br>
+• to the substance it has broken down into / carbon-14 to nitrogen-14/ uranium to lead /
+potassium to argon.<br> \n</br><br> \n</br>
+• Relative dating the age of the fossil is worked out by comparing to the age of another
+fossil or geological event.<br> \n</br><br> \n</br>
+• It can only tell us whether a particular fossil was formed before or after a particular
+fossil or event<br> \n</br><br> \n</br>
+• Fossils found in lower layers were formed before/are older than fossils found in an upper
+layer.<br> \n</br><br> \n</br>
+*Advantages of fossil tourism<br> \n</br><br> \n</br>
+• Creates employment / job opportunities for the local community e.g. field workers for
+digs, tour guides, sculptures and artists<br> \n</br><br> \n</br>
+• Creates business opportunities e.g. selling curios.<br> \n</br><br> \n</br>
+• Education of locals and visitors about our geological history.<br> \n</br><br> \n</br>
+• Improves the economy of the country as foreign tourists bring more cash.<br> \n</br><br> \n</br>
+• Money gained through fossil tourism can be used to carry out further excavation.<br> \n</br><br> \n</br>
+• Fossil sites will be protected as they are a source of income.</item>
+        <item>YPOTHALAMUS (THERMOREGULATION) ESSAY<br> \n</br><br> \n</br>
+A marathon runner took only 1 litre of water with him when he set off on a race on a hot day.
+Describe the changes in his body to try to maintain normal body temperature. Describe the role
+of the hypothalamus in regulating the water balance of his body<br> \n</br><br> \n</br><br> \n</br><br> \n</br>
+*Thermoregulation<br> \n</br><br> \n</br>
+• When environmental temperature is high<br> \n</br><br> \n</br>
+• Receptors in the skin detects this<br> \n</br><br> \n</br>
+• Impulses are send to the Hypothalamus<br> \n</br><br> \n</br>
+• Which sent impulses to the blood vessels in the skin<br> \n</br><br> \n</br>
+• These blood vessels become wider/dilate/increase in diameter/vasodilation<br> \n</br><br> \n</br>
+• More blood flows through the skin<br> \n</br><br> \n</br>
+• More heat is therefore lost<br> \n</br><br> \n</br>
+• from the body - Through radiation<br> \n</br><br> \n</br>
+• The sweat glands<br> \n</br><br> \n</br>
+• Produce more sweat<br> \n</br><br> \n</br>
+• That evaporates from the skin’s surface<br> \n</br><br> \n</br>
+• Leading to more heat is lost<br> \n</br><br> \n</br>
+• Cooling down the body<br> \n</br><br> \n</br>
+*Hypothalamus<br> \n</br><br> \n</br>
+• will respond to information received from osmoreceptors<br> \n</br><br> \n</br>
+• To release more ADH into the blood<br> \n</br><br> \n</br>
+• Higher concentration of ADH increases the permeability<br> \n</br><br> \n</br>
+• of the renal tubules/distal convoluted and collecting tubules<br> \n</br><br> \n</br>
+• Allowing more water to be reabsorbed from the filtrate<br> \n</br><br> \n</br>
+• Passing into the surrounding blood capillaries<br> \n</br><br> \n</br>
+• Increasing the quantity of water in the blood<br> \n</br><br> \n</br>
+• Less urine will be excreted/more concentrated</item>
+        <item>STEM CELL ESSAY      <br> \n</br><br> \n</br>
+Stem cell research has made a significant contribution to the medical field. Evaluate this
+statement by describing what are stems cells, where they are harvested, their uses and the
+ethical issues associated with them<br> \n</br><br> \n</br><br> \n</br><br> \n</br>
+*What stem cells are<br> \n</br><br> \n</br>
+• Undifferentiated cells<br> \n</br><br> \n</br>
+• that have the ability to form any cell or tissue<br> \n</br><br> \n</br>
+• in the body<br> \n</br><br> \n</br>
+*Where stem cells are harvested from<br> \n</br><br> \n</br>
+• Stems cells from embryonic tissue -<br> \n</br><br> \n</br>
+• Stems cells from foetal tissue<br> \n</br><br> \n</br>
+*Uses of stem cells<br> \n</br><br> \n</br>
+• Replace neurons damaged by injuries to the spinal cord<br> \n</br><br> \n</br>
+• - Produce insulin that could treat people with diabetes<br> \n</br><br> \n</br>
+• Replace heart muscle cells<br> \n</br><br> \n</br>
+• that could repair damage after a heart attack<br> \n</br><br> \n</br>
+• Portion of bone marrow collected<br> \n</br><br> \n</br>
+• Bone marrow transplants<br> \n</br><br> \n</br>
+*Arguments for stem cell research<br> \n</br><br> \n</br>
+• Embryos only small amounts of undifferentiated<br> \n</br><br> \n</br>
+• tissue - Embryos will be destroyed anyway<br> \n</br><br> \n</br>
+• Stems cells harvested from cord blood<br> \n</br><br> \n</br>
+• does not destroy the embryo<br> \n</br><br> \n</br>
+*Arguments against stem cell research<br> \n</br><br> \n</br>
+• Using stem cells for research, embryos are living organisms<br> \n</br><br> \n</br>
+• unacceptable to destroy them<br> \n</br><br> \n</br>
+• Destruction of embryos is immoral.<br> \n</br><br> \n</br>
+• against moral and religious Beliefs.</item>
+        <item>HEARING AND REFLEX ACTION ESSAY<br> \n</br><br> \n</br><br> \n</br><br> \n</br>
+
+Explain how a person hears the sound of a
+dog growling and is able to respond rapidly
+to the touch of its nose on his or her leg<br> \n</br><br> \n</br>
+
+*HEARING<br> \n</br><br> \n</br>
+
+- When the person hears the sound of a dog
+growling,<br> \n</br><br> \n</br>
+
+- The pinna traps and directs the sound
+waves into the auditory canal<br> \n</br><br> \n</br>
+
+-The sound waves strike the tympanic
+membrane (eardrum) and causes it to
+vibrate<br> \n</br><br> \n</br>
+- The vibrating membrane causes the<br> \n</br><br> \n</br>
+
+-Ossicles, including the stirrup (stapes), to
+vibrate<br> \n</br><br> \n</br>
+
+- This sets up waves in the perilymph and
+endolymph<br> \n</br><br> \n</br>
+
+- The organ of Corti in the cochlea becomes
+stimulated<br> \n</br><br> \n</br>
+- The stimulus is converted to a nerve
+The nerve impulse is carried by the
+auditory nerve to the  cerebrum where the sound is interpreted <br> \n</br><br> \n</br>
+-The pressure in the cochlea is then eased
+out through the round window into the Eustacian tube<br> \n</br><br> \n</br>
+
+*REFLEX ACTION<br> \n</br><br> \n</br>
+
+-Reflex action may be defined as a rapid,
+automatic response to a stimulus received
+by an organ,in this case, the leg
+-when the dogs nose touches the leg<br> \n</br><br> \n</br>
+-Receptors in the skin receive the stimulus
+ The stimulus is converted into a nerve<br> \n</br><br> \n</br>
+
+-The  impulse travel along the sensory neuron<br> \n</br><br> \n</br>
+
+-towards the spinal cord along the dorsal
+root<br> \n</br><br> \n</br>
+-of the spinal nerve<br> \n</br><br> \n</br>
+-in the spinal cord, the sensory neuron
+makes synaptic contact with the connector
+and then the impulses are transmitted
+along the motor neuron along the ventral
+root of the spinal nerve to the effector
+organ/muscle which contracts and pulls the
+leg away</item>
+        <item>LAMARCKISM AND DARWINISM ESSAY<br> \n</br><br> \n</br><br> \n</br><br> \n</br>
+
+Charles Darwin and Jean Baptiste de Lamarck had different ideas to explain
+evolution. Describe how each of them would have explained the evolution of
+the long necks of giraffes. Justify whose idea is more acceptable in the
+science community today.<br> \n</br><br> \n</br>
+
+*Charles Darwin explanation<br> \n</br><br> \n</br>
+
+-As a result of genetic variation / some giraffes have longer necks than
+others<br> \n</br><br> \n</br>
+-Environmental change / when the leaves became scarce in short trees<br> \n</br><br> \n</br>
+
+-competition for resources occurrred<br> \n</br><br> \n</br>
+-causing those with shorter necks to die<br> \n</br><br> \n</br>
+
+-and those with longer necks to survive<br> \n</br><br> \n</br>
+
+-This is natural selection /survival of the fittest<br> \n</br><br> \n</br>
+-The genes /genotype for longer necks<br> \n</br><br> \n</br>
+-were passed on to subsequent generations<br> \n</br><br> \n</br>
+-as a result now the population of giraffe have long necks<br> \n</br><br> \n</br>
+
+
+*Jean Baptiste de Lamarck explanation<br> \n</br><br> \n</br><br> \n</br><br> \n</br>
+
+-All giraffes had short necks originally<br> \n</br><br> \n</br>
+-When the leaves became scarce in short trees lower parts of trees<br> \n</br><br> \n</br>
+-Giraffes stretched / used their neck more often to reach to the taller trees<br> \n</br><br> \n</br>
+-As a result the neck became longer / developed<br> \n</br><br> \n</br>
+-This acquired characteristic was passed on to the offspring<br> \n</br><br> \n</br>
+-The next generation of giraffes had long necks<br> \n</br><br> \n</br>
+
+*An idea accepted in the science community today<br> \n</br><br> \n</br><br> \n</br><br> \n</br>
+
+-Charles Darwin - there is evidence that genes are inherited from the
+parents,and is not the acquired characteristics
+
+</item>
+        <item>REPRODUCTIVE STRATEGIES</item>
+        <item>HOMEOSTASIS ESSAY
+
+Homeostasis is the maintenance of a constant
+internal environment, within narrow limits, despite a
+ changing external environment
+<br> \n</br><br> \n</br>
+
+Nomsa is sitting in class on a particular day and
+looks at the wall thermometer showing 430C.<br> \n</br><br> \n</br>
+
+
+Discuss the processes and mechanisms that are
+involved in thermoregulation and osmoregulation in
+her body on that particular day.<br> \n</br><br> \n</br>
+
+*THERMOREGULATION<br> \n</br><br> \n</br>
+
+-When the environmental temperature is high,
+receptors in the skin detect this
+increased blood temperature is detected by the
+heat loss centre of the hypothalamus<br> \n</br><br> \n</br>
+
+-The hypothalamus sends impulses to the skin
+causing the surface blood vessels to dilate/increase
+in diameter/vasodilation occurs<br> \n</br><br> \n</br>
+
+-More blood flows to the skin and therefore more
+heat is lost to the environment.<br> \n</br><br> \n</br>
+
+-The sweat glands are stimulated to produce more
+sweat thereby causing heat loss through evaporation
+Thereby causing the body to cool down<br> \n</br><br> \n</br>
+
+
+*OSMOREGULATION<br> \n</br><br> \n</br>
+
+-On a hot day a person loses water through
+sweating, thereby decreasing the amount of water in
+the blood.<br> \n</br><br> \n</br>
+
+-Osmoreceptors detect this and cause the
+hypothalamus to release more ADH (Antidiuretic
+hormone) into the blood.<br> \n</br><br> \n</br>
+
+-ADH cause an increase in the permeability of the
+renal tubules to water<br> \n</br><br> \n</br>
+
+-More water is reabsorbed in the kidneys<br> \n</br><br> \n</br>
+
+-Urine becomes more concentrated/decrease in
+volume<br> \n</br><br> \n</br>
+
+-Water levels are restored to normal
+
+        </item>
+        <item>
+            BLOOD GROUPS ESSAY<br> \n</br><br> \n</br><br> \n</br>
+
+Sandy has given birth to a baby girl. There are two
+men claiming to be the father of the child. Explain
+how the inheritance of blood groups and DNA testing
+could assist in establishing who the father is.<br> \n</br><br> \n</br><br> \n</br><br> \n</br>
+
+-Blood groups are controlled by three alleles IA,
+IB,i which in combination will provide four different
+phenotypes namely blood groups A, B, O and AB.<br> \n</br><br> \n</br>
+
+-An individual with blood group A ,will inherit one
+allele from each parent and will therefore inherit a
+genotype of either IAi or IA IA from his parents<br> \n</br><br> \n</br>
+
+-An individual with Blood group B will inherit one
+allele from each parent and will therefore inherit
+genotype of either 1Bi or 1BIB; and<br> \n</br><br> \n</br>
+
+-An individual with blood group AB will inherit one
+allele from each parent and will have both alleles IA
+and IB which are co dominant, and<br> \n</br><br> \n</br>
+
+-An individual with blood group O will inherit i allele<br> \n</br><br> \n</br>
+
+-from both parents and will be homozygous recessive
+(ii)<br> \n</br><br> \n</br>
+
+-The blood of each male as well as the baby blood
+must be tested.<br> \n</br><br> \n</br>
+-If the baby blood group is O, then the father with
+blood group AB will be eliminated as he does not
+cary the recessive O(i) allele.<br> \n</br><br> \n</br>
+
+-Should the father have a blood group B with a IBIB
+genotype, then he will be eliminated as a potential
+father as he does not have the recessive O(i) allele.<br> \n</br><br> \n</br>
+
+-Should the father have a blood group A with a IAIA
+(homozygous) genotype , then he will be eliminated
+as a potential father as he does not have the
+recessive O(i) allele.<br> \n</br><br> \n</br>
+
+-The father who also has a blood group B but a
+genotype of IBi (Heterozygous).could be a possible
+father as he is carrying the i allele of which the baby
+inherited<br> \n</br><br> \n</br>
+
+-If the father who has a blood group A with
+genotype of IAi, could be a possible father as
+carrying the i allele of which the baby inherited.<br> \n</br><br> \n</br>
+
+-DNA testing can further confirm the father of the
+child by analysing and comparing the DNA genetic
+bands of each potential male parent with the genetic
+bands of DNA taken from the baby.<br> \n</br><br> \n</br>
+
+-Should there be more genetic bands that are
+identical to that of the baby then that would confirm
+the male parent/father.<br> \n</br><br> \n</br>
+</item>
+        <item>PREGNANCY ESSAY<br> \n</br><br> \n</br><br> \n</br><br> \n</br>
+
+-The zygote divides by mitosis<br> \n</br><br> \n</br>
+-to form a ball of cells<br> \n</br><br> \n</br>
+-called the morula<br> \n</br><br> \n</br>
+-More mitotic divisions ot the morula occurs to form a hollow bal ot cells<br> \n</br><br> \n</br>
+-called a blastocyst<br> \n</br><br> \n</br>
+
+-The blastocyst attaches to the endometrial lining<br> \n</br><br> \n</br>
+-The outer wall ot the blastocyst. called the chorion<br> \n</br><br> \n</br>
+-develops projections called villi which<br> \n</br><br> \n</br>
+-embeds/implants into the uterine wall<br> \n</br><br> \n</br>
+
+-The cells of the embryo continues to divide<br> \n</br><br> \n</br>
+-and differentiate<br> \n</br><br> \n</br>
+-to form the different organs and limbs<br> \n</br><br> \n</br>
+-and is now called a foetus<br> \n</br><br> \n</br>
+-The foetus is enclosed in a sac called the amnion<br> \n</br><br> \n</br>
+-filled with amniotic fluid<br> \n</br><br> \n</br>
+-which protects the foetus against temperature fluctuations<br> \n</br><br> \n</br>
+-protects the foetus against dehydration<br> \n</br><br> \n</br>
+-and protects the foetus against mechanical injury/acts as a shock absorber<br> \n</br><br> \n</br>
+
+
+
+-The chorionic vili and the endometrium form the placenta<br> \n</br><br> \n</br>
+-where the blood ot both the foetus and the mother<br> \n</br><br> \n</br>
+-run close to each other<br> \n</br><br> \n</br>
+-allowing lor nutrients to diffuse/ into the blood of the foetus<br> \n</br><br> \n</br>
+-The umbilical vein<br> \n</br><br> \n</br>
+-caries the absorbed nutrients from the mother to the foetus</item>
+        <item>HORMONES ESSAY<br> \n</br><br> \n</br><br> \n</br><br> \n</br>
+
+Name the hormones produced by the testes and ovaries and describe the role of each<br> \n</br><br> \n</br>
+
+*Hormone in human reproduction.<br> \n</br><br> \n</br>
+*Testosterone<br> \n</br><br> \n</br>
+-Produced by seminiferous tubules in the testes<br> \n</br><br> \n</br>
+-During puberty testosterone stimulates<br> \n</br><br> \n</br>
+
+-The deepening of the voice as vocal cords elongate in the larynx<br> \n</br><br> \n</br>
+-The development of muscles<br> \n</br><br> \n</br>
+-The growth of facial, pubic and body hair<br> \n</br><br> \n</br>
+-Development of the penis and testes<br> \n</br><br> \n</br>
+-The production of sperm in the testes<br> \n</br><br> \n</br>
+
+*Oestrogen<br> \n</br><br> \n</br>
+-Produced by the Graafian follicles<br> \n</br><br> \n</br>
+-in the ovaries<br> \n</br><br> \n</br>
+
+-Causes the lining of the uterus / endometrium<br> \n</br><br> \n</br>
+-to become thicker/more vascular<br> \n</br><br> \n</br>
+-in preparation for a possible implantation of the embryo and development of the
+foetus<br> \n</br><br> \n</br>
+
+*During puberty oestrogen stimulates:<br> \n</br><br> \n</br>
+
+-The widening of the pelvis/hips<br> \n</br><br> \n</br>
+-The growth and development of the breasts<br> \n</br><br> \n</br>
+-The growth of the female sex organs<br> \n</br><br> \n</br>
+-The start of the menstrual cycle, ovulation and menstruation<br> \n</br><br> \n</br>
+
+*Progesterone<br> \n</br><br> \n</br>
+
+-Produced by the corpus luteum<br> \n</br><br> \n</br>
+-and placenta<br> \n</br><br> \n</br>
+-Progesterone causes further thickening of the endometrium<br> \n</br><br> \n</br>
+-so that it is ready for implantation of the embryo should fertlisation occur<br> \n</br><br> \n</br>
+-High levels of progesterone<br> \n</br><br> \n</br>
+-inhibits the secretion of FSH<br> \n</br><br> \n</br>
+-by the pituitary gland<br> \n</br><br> \n</br>
+-which in turn prevents the further development of any new ovum in the ovary</item>
+        <item>EVOLUTION ESSAY (LAMARKISM, DARWINISM,
+GRADUALISM VS PUNTCUATED EQULIBRIUM)<br> \n</br><br> \n</br><br> \n</br><br> \n</br>
+
+Evolution according to Lamarck<br> \n</br><br> \n</br><br> \n</br><br> \n</br>
+
+*Lamarck explained evolution using the following two laws:<br> \n</br><br> \n</br>
+*The law of use and disuse<br> \n</br><br> \n</br>
+
+-As an organism uses a structure or organ more regularly, it becomes
+better developed or enlarged in that organism<br> \n</br><br> \n</br>
+-If an organism does not use a structure or organ frequently, it becomes
+less developed or reduced in size and may disappear altogether in that
+organism<br> \n</br><br> \n</br>
+
+*The inheritance of acquired characteristics<br> \n</br><br> \n</br>
+
+-Characteristics developed during the ito of an individual<br> \n</br><br> \n</br>
+-(Acquired characteristics) can be passed on to other offspring<br> \n</br><br> \n</br>
+
+
+*Evolution according to Darwin<br> \n</br><br> \n</br>
+
+-Organisms produce a large number of offspring<br> \n</br><br> \n</br>
+-There is a great deal of variation amongst thë offspring<br> \n</br><br> \n</br>
+-Some have favourable characteristics<br> \n</br><br> \n</br>
+and some do not
+-When there is a change in the environmental conditions/or<br> \n</br><br> \n</br>
+there is competition
+-Then organisms with characteristics which are more favourable survive<br> \n</br><br> \n</br>
+-This organism with less favourable characteristics die<br> \n</br><br> \n</br>
+-This is called natural selection<br> \n</br><br> \n</br>
+-The organisms that survive reproduce<br> \n</br><br> \n</br>
+-And this pass on the favourable characteristics to their offspring<br> \n</br><br> \n</br>
+-The next generation will therefore have a higher proportion of individuals<br> \n</br><br> \n</br>
+with the favourable characteristics<br> \n</br><br> \n</br>
+
+*Darwins ideas about gradualism compared to Punctuated Equilibrium<br> \n</br><br> \n</br>
+
+-Darwin believed that evolution takes place through an<br> \n</br><br> \n</br>
+-accumulation of small<br> \n</br><br> \n</br>
+-gradual  changes that occur over a long period of time<br> \n</br><br> \n</br>
+-supported by transitional forms in fossil record<br> \n</br><br> \n</br>
+-Punctuated equilibrium suggested that evolution sometimes involves long<br> \n</br><br> \n</br>
+-periods of time where species do not change /very little change occurs<br> \n</br><br> \n</br>
+-This alternates with short periods of time where rapid changes occur<br> \n</br><br> \n</br>
+-New species are formed in a short period of time /relative to the long<br> \n</br><br> \n</br>
+-period of no/little change<br> \n</br><br> \n</br>
+-supported by the absence of transitional forms
+</item>
+        <item>PUNCTUATED EQUILIBRIUM VS GRADUALISM <br> \n</br><br> \n</br>
+
+*GRADUALISM <br> \n</br><br> \n</br>
+-Based on Geology and the findings of James Hutton and Charles Lyell, gradualism is the idea that large changes are
+actually he culmination very small changes that build up over time<br> \n</br><br> \n</br><br> \n</br><br> \n</br>
+
+-This is seen often  geological- processes and when Charles Darwin first began formulating Theory of Evolution,he
+adopted this idea for how evolution happens over very longtime periods.<br> \n</br><br> \n</br><br> \n</br><br> \n</br>
+
+-The fossil record is a piece of evidence that view.The are many transitional solution fossils that show
+structural adaptation of species as they transform into new species.The geologist time scale helps show how the species
+have changed over the different eras since life began on earth.<br> \n</br><br> \n</br><br> \n</br><br> \n</br>
+
+*PUNCTUATED EQUILIBRIUM<br> \n</br><br> \n</br>
+
+
+
+-The other generally accepted hypothesis for the rate of evolution is called punctuated equilibrium <br> \n</br><br> \n</br>
+Punctuated equilibrium is based on the idea that we cannot see changes in a species so there mast be very long periods
+of no changes of species.<br> \n</br><br> \n</br>
+-That is he equilibrium part of punctuated equilibrium.<br> \n</br><br> \n</br>
+
+-However, we do know that species do change, so there has to be a period of time where those changes occur.<br> \n</br><br> \n</br>
+
+-Punctuated equilibrium asserts these changes over a relatively short amount of time punctuating(the long periods of
+equilibrium).
+</item>
+        <item>GENETIC VARIATION AND MUTATION ESSAY<br> \n</br><br> \n</br>
+
+-Describe how POINT MUTATIONS, FRAMESHIFT MUTATIONS and MEIOSIS contribute to Genetic Variation
+GENE MUTATIONS<br> \n</br><br> \n</br>
+
+-Gene mutations are errors (or mistakes or changes) that may occur during tanscription and /or DNA replication<br> \n</br><br> \n</br>
+
+-POINT MUTATIONS:replacing/substituting  one base of a codon with another<br> \n</br><br> \n</br>
+-Small change that may possibly result in one amino acid changing in protein<br> \n</br><br> \n</br>
+
+-FRAMESHIFT-MUTATIONS: addition/ deletion of one or more bases of a code<br> \n</br><br> \n</br>
+-Resulting in changing the order/ sequence of all the bases of the codons J<br> \n</br><br> \n</br>
+-Resulting in forming a different protein with different functions<br> \n</br><br> \n</br>
+-Lead to different phenotypes<br> \n</br><br> \n</br>
+
+*MEOSIS<br> \n</br><br> \n</br>
+
+*CROSSING-OVER<br> \n</br><br> \n</br>
+-Homologous chromosomes/bivalents pair up<br> \n</br><br> \n</br>
+-Each chromosome has 2 chromatids<br> \n</br><br> \n</br>
+-Non-sister chromatids  overlap/cross-over<br> \n</br><br> \n</br>
+-Points at which crossing-over takes place are referred to as chiasmata<br> \n</br><br> \n</br>
+-Genetic material is exchanged between non-sister chromatids<br> \n</br><br> \n</br>
+-After the process of crossing over chromosomes have alleles from its homologous partner<br> \n</br><br> \n</br>
+-This means that each gamete formed wl have a max of alleles tom beth parents<br> \n</br><br> \n</br>
+-Brings about variation in the gametes formed and also the offspring<br> \n</br><br> \n</br>
+
+*RANDOM ARRANGEMENT OF CHROMOSOMES AT THE EQUATOR <br> \n</br><br> \n</br>
+
+-Each pair of homologous chromosomes may ine up either way up on the equator of the spindle<br> \n</br><br> \n</br>
+-Independently of what the other pairs are doing<br> \n</br><br> \n</br>
+-This means that gametes will have differing number/mix  of both parental chromosomes </item>
+        <item>FOETUS ESSAY<br> \n</br><br> \n</br>
+
+An unicellular zygote undergoes many developmental changes it becomes a multicellular foetus, nourished and
+protected by the mother.<br> \n</br><br> \n</br>
+
+Describe changes that allow the ZYGOTE TO EVENTUALLY DEVELOP INTO A FOETUS and how te FOETUS IS
+NOURISHED AND PROTECTED DURING THE PERIOD OF PREGNANCY<br> \n</br><br> \n</br>
+
+*DEVELOPMENT OF AN UNICELLULAR ZYGOTE<br> \n</br><br> \n</br>
+
+Just after the fertilisation, a zygote is formed. The zygote passes down the fallopian tube and undergoes col division
+mitosis<br> \n</br><br> \n</br>
+
+The zygote developing into a ball f cells called morula and thereafter  it becomes blastocyte. In teurus it
+will further divide by mitosis and form an embryo, which becomes attached to the endometriam wall of the uterus. This is
+called implantation. During this time two membranes develop around it.<br> \n</br><br> \n</br>
+
+They are called extra-embryonic membranes.The membranes are the chorion which form the choronic villi and the
+amnion After 12 weeks, the embryo is called a foetus.<br> \n</br><br> \n</br>
+
+*NOURISHMENT OF THE FOETUS<br> \n</br><br> \n</br>
+The foetus is nourished by the mother through the placenta. Nutrients and compounds from the maternal blood pass into
+the foetal blood. These substances feed the foetus via the umbilical vein.<br> \n</br><br> \n</br>
+
+*PROTECTION OF THE FOETUS<br> \n</br><br> \n</br>
+The foetus is protected by the amnion filled with an amniotic fluid which prevents temperature charges as well as against
+injury-it acts as a shock absorber</item>
+        <item>SKULL ESSAY<br> \n</br><br> \n</br>
+
+
+Describe the structural changes to the skull that characterise the evolution of modern humans from their ape-like
+ancestors, and explain the significance of these changes.<br> \n</br><br> \n</br>
+
+*Foramen magnum<br> \n</br><br> \n</br>
+
+-The foramen magnum was in a backward position in the ape-like being but in a forward/ central/ ventral position in
+modern humans<br> \n</br><br> \n</br>
+
+*Significance<br> \n</br><br> \n</br>
+
+-This represents a change from quadrupedalism in ape-lie beings<br> \n</br><br> \n</br>
+-To bipedalism/(walking upright) in modern humans,leading to the following in modern humans<br> \n</br><br> \n</br>
+
+-Increased awareness of te environment in sensing danger/food<br> \n</br><br> \n</br>
+-Freeing of te hands to use implements/ cary objects/ weapons/ offspring<br> \n</br><br> \n</br>
+-Exposure of a large surface area for thermoregulation/losing body heat to surroundings in hot conditions/reducing
+overheating<br> \n</br><br> \n</br>
+-Display of sex organs/breasts as part of courtship behaviours<br> \n</br><br> \n</br>
+
+*Cranium<br> \n</br><br> \n</br>
+
+-Modem humans have a larger cranium than the ape-like beings<br> \n</br><br> \n</br>
+-Modem humans have a less sloping forehead than the ape-like beings<br> \n</br><br> \n</br>
+-Modem humans have a cranium that is more rounded than the ape-like beings<br> \n</br><br> \n</br>
+
+*Significance
+
+*This allowed space for a larger brains in humans than in ape-like beings, making the following possible<br> \n</br><br> \n</br>
+
+-Better co-ordination of movement<br> \n</br><br> \n</br>
+-Processing of a large amount information<br> \n</br><br> \n</br>
+-Processing information faster<br> \n</br><br> \n</br>
+-Development of spoken and written languages to communicates<br> \n</br><br> \n</br>
+*Jaws<br> \n</br><br> \n</br>
+
+-Humans have smaller jaws than the ape-like beings<br> \n</br><br> \n</br>
+-Humans have jaws that are non-prognathous/ flat face compared to the jaws of ape- like beings which are
+-prognathous/sloping face<br> \n</br><br> \n</br>
+-Humans have C-shaped jaws /jaws that are gently curved compared to the U shaped jaws in the ape-like beings<br> \n</br><br> \n</br>
+
+*Significance<br> \n</br><br> \n</br>
+-This corresponds with a change in diet from hard raw food in the ape-like beings<br> \n</br><br> \n</br>
+-To softer cooked food in humans<br> \n</br><br> \n</br>
+
+*Dentition/Teeth<br> \n</br><br> \n</br>
+
+-In ape-like beings there are gaps/diastema between incisors and canines<br> \n</br><br> \n</br>
+-but no gasp between the teeth in humans<br> \n</br><br> \n</br>
+-Humans have smaller teeth incisors and canines than the ape-like beings<br> \n</br><br> \n</br>
+-Humans  have flatter molars and pre-molars than the ape-like beings<br> \n</br><br> \n</br>
+
+*Significance<br> \n</br><br> \n</br>
+
+-This corresponds with the decreased need to bite and tea and an increased need to grind and chew in humans in
+-view of the change in diet to soft cooked food.<br> \n</br><br> \n</br>
+
+*Eyebrow ridges<br> \n</br><br> \n</br>
+
+-Humans have eyebrow ridge that are smaller than those of the ape-like beings<br> \n</br><br> \n</br>
+
+*Significance<br> \n</br><br> \n</br>
+
+
+-There is a decreased need to strengthen the skull of humans due to the smaller size of the jaws<br> \n</br><br> \n</br>
+
+*Chin<br> \n</br><br> \n</br>
+
+-In humans e chin is more developed  compared to the ape-like beings<br> \n</br><br> \n</br>
+
+*Significance<br> \n</br><br> \n</br>
+
+-Developed chin assists with speechSin humans (space in mouth for movement of tongue for the development of complicated language)<br> \n</br><br> \n</br>
+
+*Zygomatic arch<br> \n</br><br> \n</br>
+
+-In humans the zygomatic arch/cheek bone is less developed than in the ape- like beings<br> \n</br><br> \n</br>
+*Significance<br> \n</br><br> \n</br>
+-The corresponds with the decreased need tor attachment of strong muscles due to the decreased jaw size in humans<br> \n</br><br> \n</br>
+-Also, jaw muscles not as big and strong which indicates omnivores diet. They eat more fined food(cooked meat and vegetables)
+ </item>
+    </string-array>
+
+
+</resources>

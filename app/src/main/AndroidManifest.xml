@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="grade12science.com">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-2649737131140447~6119305466"/>
+        <activity android:name=".biology"></activity>
+        <activity android:name=".list" />
+        <activity android:name=".agric_prac" />
+        <activity android:name=".agric_on" />
+        <activity android:name=".agric_ne" />
+        <activity android:name=".agric_pbc" />
+        <activity android:name=".agric_pp" />
+        <activity android:name=".lfsc_prac" />
+        <activity android:name=".lfsc_on" />
+        <activity android:name=".lfsc_ne" />
+        <activity android:name=".lfsc_pbc" />
+        <activity android:name=".lfsc_pp" />
+        <activity android:name=".physics_prac" />
+        <activity android:name=".physics_on" />
+        <activity android:name=".physics_ne" />
+        <activity android:name=".physics_pbc" />
+        <activity android:name=".physics_pp" />
+        <activity android:name=".math_on" />
+        <activity android:name=".math_ne" />
+        <activity android:name=".math_pbc" />
+        <activity android:name=".math_pp" />
+        <activity android:name=".math.past_papers" />
+        <activity android:name=".essays" />
+        <activity android:name=".math" />
+        <activity android:name=".agric" />
+        <activity android:name=".physics" />
+        <activity android:name=".lifescience" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
